@@ -1,4 +1,4 @@
-Evolutionary EvoMan player - Assignment
+Evolutionary EvoMan player 
    
 The aim of this project is compare two **Evolutionary Algorithms** for the task of video game playing using a python framework called EvoMan.
 

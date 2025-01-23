@@ -1,9 +1,6 @@
-# 🧬 Evolutionary EvoMan player - Assignment 1 🎮
-
-This repository contains a project realized as part of the *Evolutionary Computing* course of the Master's degree in Artificial Intelligence, Vrije Universiteit Amsterdam.     
+Evolutionary EvoMan player - Assignment
+   
 The aim of this project is compare two **Evolutionary Algorithms** for the task of video game playing using a python framework called EvoMan.
-For more details, read the [task assigment](standard_assignment_taskI.pdf).
-The proposed solution is describer in the [report](report/report.pdf).
 
 ![EvoMan](report/game.png)
 
@@ -33,14 +30,7 @@ For the second part, where the best individuals are confronted to different enem
 Results obtained with both approach show that even in the early generations we can obtain very good individuals, reaching fitness  values above 90 for all three enemies tested.
 To have a deeper insight on the graphs, check out the `plots` folder.
 
-## Group members - 88
 
-|  Name     |  Surname  |     Email                              |    Username      |
-| :-------: | :-------: | :------------------------------------: | :--------------: |
-| Simone  | Montali     | `s.montali@student.vu.nl`       | [_montali_](https://github.com/montali)         |
-| Giuseppe  | Murro     | `g.murro@student.vu.nl`       | [_gmurro_](https://github.com/gmurro)         |
-| Nedim | Azar | `n.azar@student.vu.nl` | [_nedimazar_](https://github.com/nedimazar) |
-| Martin | Pucheu  Avilés    | `m.i.pucheuaviles@student.vu.nl`      | [_martinpucheuaviles_](https://github.com/martinpucheuaviles) |
 
 
 ## License

@@ -29,10 +29,3 @@ For the second part, where the best individuals are confronted to different enem
 ### Results
 Results obtained with both approach show that even in the early generations we can obtain very good individuals, reaching fitness  values above 90 for all three enemies tested.
 To have a deeper insight on the graphs, check out the `plots` folder.
-
-
-
-
-## License
-
-This project is licensed under the GNU General Public Licens - see the [LICENSE](LICENSE) file for details
